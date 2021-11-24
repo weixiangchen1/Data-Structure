@@ -1,0 +1,6 @@
+﻿  List.c
+  Test.c
+  正在生成代码...
+D:\Data-Structure\List\List\List.c(16): warning C4715: “BuyListNode”: 不是所有的控件路径都返回值
+D:\Data-Structure\List\List\List.c(29): warning C4715: “ListCreate”: 不是所有的控件路径都返回值
+  List.vcxproj -> D:\Data-Structure\List\Debug\List.exe
